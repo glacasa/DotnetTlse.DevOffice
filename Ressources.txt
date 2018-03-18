@@ -1,6 +1,8 @@
-
 # VSTO
+https://msdn.microsoft.com/en-us/library/hy7c6z9k.aspx
 
+# Web add-ins
+https://docs.microsoft.com/fr-fr/Office/dev/Add-ins/
 
 # Open XML
 https://github.com/OfficeDev/Open-XML-SDK
