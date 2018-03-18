@@ -1,0 +1,16 @@
+
+# VSTO
+
+
+# Open XML
+https://github.com/OfficeDev/Open-XML-SDK
+https://www.nuget.org/packages/DocumentFormat.OpenXml/
+
+# Office Online
+Protocole WOPI
+https://wopi.readthedocs.io/en/latest/
+https://wopi.readthedocs.io/projects/wopirest/en/latest/
+
+Enregistrement
+Office Cloud Storage Partner Program
+https://dev.office.com/programs/officecloudstorage

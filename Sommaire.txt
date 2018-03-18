@@ -1,0 +1,42 @@
+= Les possibilités de développement avec Office
+
+# Programme de la session
+VSTO
+Web add-in
+OpenXML
+Bonus : Office Online
+
+# Développement VSTO
+Interractions entre une application .net et MS Office
+COM Add-in, mais en .NET
+Ajout de fonctionnalités dans Office (rubans, menus contextuels, events)
+Word/Excel : Code embarqué dans le document (non recommandé !)
+
+# Web add-in
+Panneau web dans Office
+Développement HTML/JS
+Office.js pour interragir avec le document
+PC / Mac / Web / iOS
+
+# Déploiement Web add-in
+Manifest XML + site web
+Windows Store
+Dossier réseau
+Sharepoint / Office 365
+
+# OpenXML SDK
+NuGet : DocumentFormat.OpenXml
+.NET Standard 1.3 
+Dév pour Office sans installer Office
+Travail sur la structure XML des docs
+
+# Office web apps
+Modification des docs dans le navigateur
+Natif dans Sharepoint / OneDrive
+WOPI : intégration à votre application
+Documents stockés sur votre serveur
+
+# Web Application Open Platform Interface (WOPI)
+API à implémenter sur votre serveur
+Récupérer doc, vérouiller, mettre à jour
+Utilisable avec Office Online ou Office iOS/Android
